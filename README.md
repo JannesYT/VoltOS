@@ -2,7 +2,7 @@
 
 VoltOS is a modern, fast, and memorable Linux distribution based on **Fedora 44**.
 
-##How do I get in?
+How do I get in?
 if you are at the login screen, just type as the password "root", that will let you log in
 
 ## Features
