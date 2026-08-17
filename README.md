@@ -9,9 +9,7 @@ VoltOS is a modern, fast, and memorable Linux distribution based on **Fedora 44*
 ## Development
 This repository contains the configuration files and build scripts for the system.
 
-Important!
-
-### How to combine the ISO:
+## How to combine the ISO:
 
 **Linux & macOS & Windows under the cat command:**
 ```bash
