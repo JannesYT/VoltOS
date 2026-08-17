@@ -1,0 +1,18 @@
+# Fedora OS Specific Files
+/rpmbuild/
+/pkgs/
+*.src.rpm
+*.rpm
+
+# Python & C Caches
+__pycache__/
+*.py[cod]
+/build/
+/dist/
+*.o
+*.so
+
+# System Junk
+.DS_Store
+*.swp
+*~
